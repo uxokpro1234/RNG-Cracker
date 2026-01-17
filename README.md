@@ -4,10 +4,6 @@ A collection of pseudo-random number generator (PRNG) implementations and tools 
 
 This project includes multiple RNG algorithms such as LCG, SplitMix64, Xoroshiro, PCG, SFC64, WyRand, and more. The goal is to provide a hands-on toolkit for learning about PRNG design, evaluating randomness, and exploring vulnerabilities.
 
----
-
-## 🚀 Features
-
 - **Multiple PRNG implementations**
   - LCG
   - SplitMix64
