@@ -3,7 +3,10 @@ A collection of pseudo-random number generator (PRNG) implementations and tools 
 <br>
 <img src ="xoroshift.png">
 <br>
+
 ```java
+public final class SplitMix64Cracker {
+
     private static final long GAMMA = 0x9E3779B97F4A7C15L;
     private static final long MUL1  = 0xBF58476D1CE4E5B9L;
     private static final long MUL2  = 0x94D049BB133111EBL;
